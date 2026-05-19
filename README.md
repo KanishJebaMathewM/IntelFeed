@@ -1,1 +1,2 @@
-Student app : intel-wise-hub .lovable.app  , Admin app : intelpulse-dash.lovable.app
+- Student App: [intel-wise-hub](https://intel-wise-hub.lovable.app/)
+- Admin App: [intelpulse-dash](https://intelpulse-dash.lovable.app/)
